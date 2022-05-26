@@ -1,0 +1,4 @@
+﻿  Intermediate14.cpp.cpp
+C:\Users\nzpan\source\repos\Intermediate14.cpp\Intermediate14.cpp.cpp(39,77): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nzpan\source\repos\Intermediate14.cpp\Intermediate14.cpp.cpp(44,77): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Intermediate14.cpp.vcxproj -> C:\Users\nzpan\source\repos\Intermediate14.cpp\Debug\Intermediate14.cpp.exe

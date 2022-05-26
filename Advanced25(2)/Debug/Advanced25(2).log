@@ -1,0 +1,3 @@
+﻿  Advanced25(2).cpp
+C:\Users\nzpan\source\repos\Advanced25(2)\Advanced25(2).cpp(25,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Advanced25(2).vcxproj -> C:\Users\nzpan\source\repos\Advanced25(2)\Debug\Advanced25(2).exe

@@ -1,0 +1,3 @@
+﻿  Advanced29.cpp
+C:\Users\nzpan\source\repos\Advanced29\Advanced29.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Advanced29.vcxproj -> C:\Users\nzpan\source\repos\Advanced29\Debug\Advanced29.exe
